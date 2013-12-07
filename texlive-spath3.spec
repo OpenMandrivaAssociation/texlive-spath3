@@ -6,7 +6,7 @@
 # catalog-version 1
 Name:		texlive-spath3
 Version:	1
-Release:	2
+Release:	3
 Summary:	Manipulate "soft paths" in PGF
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/graphics/pgf/contrib/spath3
