@@ -1,12 +1,6 @@
-# revision 29898
-# category Package
-# catalog-ctan /graphics/pgf/contrib/spath3
-# catalog-date 2013-04-12 17:56:37 +0200
-# catalog-license lppl1.3
-# catalog-version 1
 Name:		texlive-spath3
-Version:	1
-Release:	9
+Version:	1.1
+Release:	1
 Summary:	Manipulate "soft paths" in PGF
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/graphics/pgf/contrib/spath3
@@ -35,17 +29,10 @@ drawing calligraphic paths and for drawing knot diagrams.
 
 #-----------------------------------------------------------------------
 %files
-%{_texmfdistdir}/tex/latex/spath3/spath3.sty
-%{_texmfdistdir}/tex/latex/spath3/tikzlibrarycalligraphy.code.tex
-%{_texmfdistdir}/tex/latex/spath3/tikzlibraryknots.code.tex
-%doc %{_texmfdistdir}/doc/latex/spath3/README.txt
-%doc %{_texmfdistdir}/doc/latex/spath3/calligraphy_doc.pdf
-%doc %{_texmfdistdir}/doc/latex/spath3/calligraphy_doc.tex
-%doc %{_texmfdistdir}/doc/latex/spath3/knots_doc.pdf
-%doc %{_texmfdistdir}/doc/latex/spath3/knots_doc.tex
+%{_texmfdistdir}/tex/latex/spath3
+%doc %{_texmfdistdir}/doc/latex/spath3
 #- source
-%doc %{_texmfdistdir}/source/latex/spath3/spath3.dtx
-%doc %{_texmfdistdir}/source/latex/spath3/spath3.ins
+%doc %{_texmfdistdir}/source/latex/spath3
 
 #-----------------------------------------------------------------------
 %prep
