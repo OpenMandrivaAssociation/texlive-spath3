@@ -3,7 +3,7 @@ Version:	71396
 Release:	1
 Summary:	Manipulate "soft paths" in PGF
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/graphics/pgf/contrib/spath3
+URL:		https://www.ctan.org/tex-archive/graphics/pgf/contrib/spath3
 License:	LPPL1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/spath3.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/spath3.doc.r%{version}.tar.xz
